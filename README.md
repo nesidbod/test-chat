@@ -10,8 +10,6 @@ Run: `npm start`
 
 Linting: `npm lint`
 
-Setting API: `REACT_APP_MM_API_URL`
-
 If you want to run the API locally, you can make this app connect to that instead by running `npm start`
 
 if you want to add an API , edit in the file .env string REACT_APP_MM_API_URL
