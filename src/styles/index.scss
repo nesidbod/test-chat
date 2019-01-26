@@ -1,0 +1,14 @@
+body {
+  font-family: Montserrat !important;
+
+  .main-page-container {
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #c2c2c2;
+    justify-content: center;
+  }
+
+}

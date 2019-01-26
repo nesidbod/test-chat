@@ -1,0 +1,24 @@
+
+
+.message-content {
+    border-radius: 10px;
+    max-width: 210px;
+    font-size: 13px;
+    min-height: 30px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    float: right;
+    text-align: right;
+    background-color: #d8d8d8;
+}
+
+.message-content.incoming {
+    float: left;
+    text-align: left;
+    background-color: #54c7c7;
+}
+
+.message-container {
+    padding: 10px 0;
+}
